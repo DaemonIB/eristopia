@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  
+  "current": {
+    "min_version": "1.0.0",
+    "fee_percent": 3.5,
+    "fee_account": "d8ec9774-b56d-4432-9cad-4e7ec86dc1b7"
+  },
+  
+  "upcoming": {
+    "fee_percent": null,
+    "fee_account": null,
+    "min_version": null,
+    "effective_date": null,
+    "warning_message": null
+  },
+  
+  "version_deprecation": {
+    "deprecated_below": null,
+    "end_of_life_date": null,
+    "warning_message": null
+  },
+  
+  "disabled_boxes": [],
+  
+  "broadcast_message": null,
+  
+  "_comments": {
+    "schema_version": "Increment when config structure changes",
+    "current": "Active settings applied immediately",
+    "upcoming": "Future changes - boxes will warn owners before effective_date",
+    "version_deprecation": "Warn users on old versions before hard cutoff",
+    "disabled_boxes": "Array of API keys or box IDs to disable",
+    "broadcast_message": "Message shown to all box owners on next check-in"
+  }
+}
