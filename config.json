@@ -23,7 +23,7 @@
   
   "disabled_boxes": [],
   
-  "broadcast_message": "This is a test of the alert system",
+  "broadcast_message": null,
   
   "_comments": {
     "schema_version": "Increment when config structure changes",
