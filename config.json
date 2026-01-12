@@ -2,7 +2,7 @@
   "schema_version": 1,
   
   "current": {
-    "min_version": "1.0.0",
+    "min_version": "2.0.0",
     "fee_percent": 3.5,
     "fee_account": "d8ec9774-b56d-4432-9cad-4e7ec86dc1b7"
   },
