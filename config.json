@@ -11,7 +11,7 @@
     "fee_percent": 5.0,
     "fee_account": "d8ec9774-b56d-4432-9cad-4e7ec86dc1b7",
     "min_version": "2.0.0",
-    "effective_date": "2025-03-01T00:00:00Z",
+    "effective_date": "2026-03-01T00:00:00Z",
     "warning_message": "Fee increasing to 5% on March 1, 2025, updating the fee_account and min version"
   },
   
